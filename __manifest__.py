@@ -15,4 +15,6 @@
         # views
         "views/project_project.xml",
     ],
+    "installable": True,
+    "application": False,
 }
